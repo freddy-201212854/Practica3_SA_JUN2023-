@@ -1,0 +1,6 @@
+{"level":"info","message":"[POST] /repartidor/pedido"}
+{"level":"info","message":"Input] {\"pedidoId\":\"zu8xbxkuu\"}  [Output] Pedido recibido del cliente, Estado del pedido actualizado. ID: zu8xbxkuu Pendiente"}
+{"level":"info","message":"[PUT] /repartidor/cliente"}
+{"level":"info","message":"Input] {\"pedidoId\":\"zu8xbxkuu\"}  [Output] Estado del pedido actualizado. ID: zu8xbxkuu Pendiente"}
+{"level":"info","message":"[PUT] /repartidor/marcarPedido"}
+{"level":"info","message":"Input] {\"pedidoId\":\"zu8xbxkuu\"}  [Output]Pedido entregado, Estado del pedido actualizado. ID: zu8xbxkuu, Pedido entregado"}

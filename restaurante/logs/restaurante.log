@@ -1,0 +1,6 @@
+{"level":"info","message":"[POST] /restaurante/pedido"}
+{"level":"info","message":"[Input] {\"nombre\":\"John Doe\",\"direccion\":\"Calle Principal 123\",\"telefono\":\"123456789\",\"items\":[{\"nombre\":\"Pizza Margarita\",\"cantidad\":2},{\"nombre\":\"Hamburguesa\",\"cantidad\":1}]}  [Output]Pedido recibido del cliente. ID: mvxmowied Estado: pendiente"}
+{"level":"info","message":"[PUT] /restaurante/cliente"}
+{"level":"info","message":"Input] {\"pedidoId\":\"mvxmowied\"}  [Output] Estado del pedido actualizado. ID: mvxmowied, Estado: pendiente"}
+{"level":"info","message":"[PUT] /restaurante/repartidor"}
+{"level":"info","message":"Input] {\"pedidoId\":\"mvxmowied\"}  [Output] Estado del pedido actualizado. ID: mvxmowied, Estado: Pedido Listo"}
